@@ -1,0 +1,44 @@
+.searchDiv{
+    width: 100%;
+    
+    padding-top: 0px;
+    height: 150px;
+    background-color:steelblue;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    
+    
+    
+    }
+    
+    .searchDiv input[type=text]{
+      
+        margin: 20px;
+        width: 300px;
+        padding: 10px;
+    
+    }
+
+    .searchDivS{
+        width: 50%;
+        float: left;
+        padding-top: 0px;
+        height: auto;
+        min-height: 410px;
+        background-color:rgb(22, 61, 93);
+        text-align: center;
+        
+       
+        
+         
+        
+        
+        }
+    
+    .searchDivS h2{
+       padding: 25px;
+       color: beige;
+       
+    
+    }
